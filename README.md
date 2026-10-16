@@ -52,5 +52,3 @@ Led the deployment of scalable applications on AWS EC2 using Kubernetes and Argo
 Implemented Kubernetes dashboard for visual management of containerized applications on AWS EC2 instances.
 Utilized Argo CD for automated deployment pipelines, enhancing deployment efficiency by 60%.
 Achieved seamless scaling and high availability, supporting 99.9% uptime for critical applications.
-This project description emphasizes your role in leveraging AWS EC2, Kubernetes, and Argo CD to optimize application deployment and management processes effectively.
-
